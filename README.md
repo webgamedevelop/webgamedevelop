@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 欢迎加群交流 devops docker k8s go operator 相关内容
-![image](https://github.com/webgamedevelop/webgamedevelop/assets/151351979/71a8bb0f-2c5a-492b-a7a6-6ac573f4835c)
-
+<img width="388" alt="image" src="https://github.com/webgamedevelop/webgamedevelop/assets/151351979/8b9c8c16-2013-4fd2-88d6-ebe1b3995cd4">
 
 <!---
 webgamedevelop/webgamedevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
