@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 欢迎加群交流 DevOps / Docker / k8s / Go / Operator 相关内容
 - 欢迎加群交流 Golang / Operator 入门项目
+- 欢迎访问入门项目文档 https://www.yuque.com/u2038534/kube-operator
 <img width="388" alt="image" src="https://github.com/webgamedevelop/webgamedevelop/assets/151351979/8b9c8c16-2013-4fd2-88d6-ebe1b3995cd4">
 
 <!---
