@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning cpp and rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Golang 入门项目
+- Operator 入门项目
+- k8s / docker 入门交流
 - 欢迎加群交流 DevOps / Docker / k8s / Go / Operator 相关内容
 - 欢迎加群交流 Golang / Operator 入门项目
 - 欢迎访问入门项目文档 https://www.yuque.com/u2038534/kube-operator
